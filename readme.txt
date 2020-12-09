@@ -1,1 +1,1 @@
-To get access to the site, click on index.html
+To get access to the site, open the file called "index.html".
