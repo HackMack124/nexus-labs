@@ -1,0 +1,1 @@
+To get access to the site, click on index.html
